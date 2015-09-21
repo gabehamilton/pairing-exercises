@@ -1,3 +1,5 @@
+package exercises
+
 /**
  */
 class MyQueueTest extends GroovyTestCase {
